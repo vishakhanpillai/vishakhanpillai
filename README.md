@@ -8,7 +8,7 @@ Hey! I'm just getting started in the world of cybersecurity. Right now, I'm lear
 
 * 🌍  I'm based in Kerala | India
 * 🧠  I'm learning networking, Linux, Scripting, Offensive Security and Web Application Penetration Testing.
-* 🤝  I'm open to collaborating on beginner cybersecurity projects, CTFs, red teaming practice, and scripting.
+* 🤝  I'm open to collaborating on beginner cybersecurity projects, CTFs, red teaming practice, and scripting. 
 
 ### Skills
 
