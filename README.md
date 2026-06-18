@@ -1,13 +1,13 @@
 <img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMGwwY2toMW85anltYWgzZTN5aXR1bnpwM3VqazF6eXlzZjZ3dmo5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nnJIYvWhYpPlyv3tJo/giphy.gif"  />
 
-##
+
 <h1 align="left">Hey 👋 My name is Vishakhan Pillai</h1>
 
-###
+
 
 <h3 align="left">DevSecOps | Cyber Security Student | Aspiring Red Teamer</h3>
 
-###
+
 
 <p align="left">Hey! I'm a DevSecOps Intern with a growing passion for cybersecurity, especially red teaming and offensive security.<br><br>I'm currently focused on learning the fundamentals the right way -understanding how systems work, how they fail, and how they can be secured. My goal is to build strong foundations in security, automation, and offensive techniques while always keeping ethics at the center of everything I do.<br><br>I don't have years of experience (yet), but I'm serious about learning, experimenting, and continuously improving. Always open to tips, resources, discussions, or connecting with people who share the same curiosity and passion for cybersecurity.</p>
 
