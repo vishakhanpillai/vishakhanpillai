@@ -1,7 +1,5 @@
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMGwwY2toMW85anltYWgzZTN5aXR1bnpwM3VqazF6eXlzZjZ3dmo5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nnJIYvWhYpPlyv3tJo/giphy.gif"  />
-
-
 <h1 align="left">Hey 👋 My name is Vishakhan Pillai</h1>
+<img align="right" height="200" src="https://i.imgflip.com/6si45c.gif"  />
 
 <h3 align="left">DevSecOps | Cyber Security Student | Aspiring Red Teamer</h3>
 
