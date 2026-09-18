@@ -1,30 +1,31 @@
-<h1 align="left">Hey 👋 My name is Vishakhan Pillai</h1>
-<img align="right" height="200" src="https://i.imgflip.com/6si45c.gif"  />
-
-<h3 align="left">DevSecOps | Cyber Security Student | Aspiring Red Teamer</h3>
-
-<p align="left">Hey! I'm a DevSecOps Intern with a growing passion for cybersecurity, especially red teaming and offensive security.<br><br>I'm currently focused on learning the fundamentals the right way -understanding how systems work, how they fail, and how they can be secured. My goal is to build strong foundations in security, automation, and offensive techniques while always keeping ethics at the center of everything I do.<br><br>I don't have years of experience (yet), but I'm serious about learning, experimenting, and continuously improving. Always open to tips, resources, discussions, or connecting with people who share the same curiosity and passion for cybersecurity.</p>
-
-<p align="left">🌍  I'm based in Kerala | India<br>💼Currently an DevSecOps intern<br>🧠  I'm learning networking, Linux, Scripting, Offensive Security and Web Application Penetration Testing.<br>🤝  I'm open to collaborating on beginner cybersecurity projects, CTFs, red teaming practice, and scripting.</p>
+<h3 data-importer="text" align="left">Hey 👋 My name is Vishakhan Pillai</h3>
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<img data-importer="image" align="right" height="197" src="https://i.pinimg.com/originals/58/72/58/58725865c95fe20cfc595725fca0d6a3.gif"  />
 
 ###
 
-<div align="left">
+<h4 data-importer="text" align="left">Junior DevSecOps Engineer | Offensive Security | Application & Software Supply Chain Security | SAST • SCA • DAST</h4>
+
+###
+
+<p data-importer="text" align="left">I'm a DevSecOps Engineer in the making with a passion for cybersecurity, software, and cinema.<br><br>Professionally, I'm exploring the world of DevSecOps and cybersecurity, learning how systems are built, how they fail, and how they can be secured.<br><br>Outside of technology, you'll usually find me watching movies, talking about them, or thinking about them way more than I probably should. 🎬</p>
+
+###
+
+<h3 data-importer="text" align="left">Stuff I Pretend I Know</h3>
+
+###
+
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -32,16 +33,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
-
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishakhanpillai/vishakhanpillai/pacman-output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishakhanpillai/vishakhanpillai/pacman-output/bomberman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vishakhanpillai/vishakhanpillai/pacman-output/bomberman-contribution-graph.svg">
-</picture>
+<img data-importer="snake" src="https://raw.githubusercontent.com/vishakhanpillai/vishakhanpillai/snake-output/snake.svg" alt="Snake animation" />
+
+###
